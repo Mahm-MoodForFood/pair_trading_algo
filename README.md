@@ -2,6 +2,8 @@
 
 This is the first algoritham I have made public. It is already widely known in industry so I hope it will provide myself and others to help. This is a running project that I will come back to over time and eventually complete and to continiously update overtime. I will also order the repository to easily find different versions of the algoritham. I wish to also test this strategy on the DeFi market. 
 
+###Please read the log.md file for updates on the project.
+
 ## Brief Description:
 - Chaotic map K-mean Clustering to identify different pairs - This is in my opinion the best option for finding pairs as it does not require any prior knowledge of the cluster. To test whether this two pairs are correctly identified as pairs, the "found pairs" will be tested using the Pearson Correlation Coefficient and Cointegration. Again this is a starting point and over time this may change but I will highlight the changes in this file and any other accompanying files.
 -  Idenify Entry Points - This is where I will be most experimenting as I would like to test the best entry point methods and whether certian strategies perform better during different market scenarios. If correlation is found between the different market "periods" such as a bearish, bullish, etc I would like it if the algoritham adjusts to it. 
